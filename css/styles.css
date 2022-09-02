@@ -1,0 +1,23 @@
+body{
+    /*background-color: #000000; */
+    border: 100%;
+}
+
+.logos{
+    border: 1px solid #e5e5e5; 
+    padding: 0px 10px;
+    background-color: #fca311;
+     /*overflow: hidden; */
+    
+}
+
+.izq{
+    float: left; 
+}
+.der{
+    float: right;
+}
+.logo_tamanio{
+    
+    height: 50px;
+}
